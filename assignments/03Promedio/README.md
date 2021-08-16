@@ -1,6 +1,6 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Promedio de 4 materias
-Básicos-Promedio de 4 materias
+#   QUIZ
+Fórmula General
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
 
