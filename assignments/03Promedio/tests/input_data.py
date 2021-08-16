@@ -5,26 +5,26 @@
 input_values = [
     (
         # Inputs
-        ["10", "8", "10","8"],
+        ["1", "3", "2"],
         # Outputs
-        ["Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "El promedio es: 9.0"],
+        ["Ingresa el coeficiente a: ", "Ingresa el coeficiente b: ", "Ingresa el coeficiente c: ", "Raiz positiva es : -1.0" , "Raiz negativa es : -2.0"],
         # Error message
-        "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores."
+        "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores. Recuerda que se deben añadir (  ) / (  )"
     ),
     (
         # Inputs
-        ["7", "8", "9","10"],
+        ["3", "0", "-12"],
         # Outputs
-        ["Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "El promedio es: 8.5"],
+        ["Ingresa el coeficiente a: ", "Ingresa el coeficiente b: ", "Ingresa el coeficiente c: ", "Raiz positiva es : 2.0" , "Raiz negativa es : -2.0"],
         # Error message
-        "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores."
+        "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores. Recuerda que se deben añadir (  ) / (  )"
     ),
     (
         # Inputs
-        ["0", "5", "0","5"],
+        ["3", "0", "-3"],
         # Outputs
-        ["Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "Calificación de la materia: ", "El promedio es: 2.5"],
+        ["Ingresa el coeficiente a: ", "Ingresa el coeficiente b: ", "Ingresa el coeficiente c: ", "Raiz positiva es : 1.0" , "Raiz negativa es : -1.0"],
         # Error message
-        "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores."
-    )
+        "Revisa los tipos de dato de tus variables. Revisa la prioridad de operadores. Recuerda que se deben añadir (  ) / (  )"
+    ),
 ]

@@ -15,16 +15,23 @@ if __name__ == '__main__':
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Modifica el programa para que realice lo siguiente:
-En una universidad cada estudiante cursa 4 materias en el semestre. Desarrolla un programa que reciba la calificación de cada materia (tipo <i>float</i>), calcula el promedio de las 4 materias y lo despliega.
+1º Lleva a cabo el ANÁLISIS del siguiente programa posteriormente diseña y programa la solución:
+ Desarrolla un programa que lea los coeficientes de un polinomio de 2o orden y calcule sus
+ raices por medio de la fórmula general.
 
-Ejemplo:
+![Tec de Monterrey](../../images/formula.png)
+
+El programa debe desplegar las 2 raíces - en esta versión no debes verificar si el polinomio
+tiene raices complejas.
+
+Ejemplo del funcionamiento de tu programa:
 ```
-Calificación de la materia: 90
-Calificación de la materia: 100
-Calificación de la materia: 60
-Calificación de la materia: 70
-El promedio es: 80.0
+Ingresa el coeficiente a: 1
+Ingresa el coeficiente b: 3
+Ingresa el coeficiente c: 2
+Raiz positiva es : -1.0
+Raiz negativa es : -2.0
+
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
